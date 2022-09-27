@@ -1,0 +1,13 @@
+.sign_in {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign_in img {
+    width: 60%;
+}
+.sign_in button{
+    margin-right: 5px;
+}
